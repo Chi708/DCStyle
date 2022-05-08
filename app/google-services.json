@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676965422853",
+    "firebase_url": "https://dcstyle-f5f1c-default-rtdb.firebaseio.com",
+    "project_id": "dcstyle-f5f1c",
+    "storage_bucket": "dcstyle-f5f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676965422853:android:212f9e9f49b268369b896c",
+        "android_client_info": {
+          "package_name": "com.dc.dcstyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676965422853-8gvhsmq5rps3f4migbma6ii4omnbboo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_aWnfGUZkdhVQcG8wHwd_1IoC20NcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676965422853-8gvhsmq5rps3f4migbma6ii4omnbboo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
